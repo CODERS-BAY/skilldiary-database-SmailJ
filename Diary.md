@@ -5,3 +5,8 @@ Today i learned the rough structure of a database, how relationships between tab
 
 The End for day one.
 :D
+
+
+## 02-03.09.2020
+
+I learned the princip of the first 3 NormForms. So we edited the old exercise.
