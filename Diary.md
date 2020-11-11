@@ -10,3 +10,11 @@ The End for day one.
 ## 02-03.09.2020
 
 I learned the princip of the first 3 NormForms. So we edited the old exercise.
+
+## 03-28.10.2020
+
+This day we learned about DDBMS (Distributed Database Managment Systems). I does a presentation about it. So there you have the Global view, main-headquarter with erd, distribution center with erd and the parcel-shop with erd. So you can be safe if the connection to one of databases broke or so, you can still connect to the local database. Very usefull and safe.
+
+## 04-04.11.2020
+
+This day we does a presentation about Dynamic SQL. Its a lot different as static SQL. The syntax and use is different but its positive so you dont need to set the mysql statement at the start (compiletime). You can define the stuff later and its usefull.
